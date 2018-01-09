@@ -1,12 +1,7 @@
 hai this is sibin 
 yhis is the appended text
 thirdf line
-<<<<<<< HEAD
-5th line1
-updated at master 
-=======
 5th line1 and 6 th line and 7th line
 and 8 th line
  updated only at branch
->>>>>>> work
 hai
