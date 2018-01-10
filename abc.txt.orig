@@ -1,0 +1,10 @@
+<?php
+
+echo "Hello world";
+<<<<<<< .merge_file_oTlpjW
+echo "hello form development ";
+
+=======
+echo "basic git commands";
+>>>>>>> .merge_file_9nHPhW
+?>
